@@ -1,0 +1,210 @@
+div {
+    margin: 10px 20px 30px 40px;
+}
+
+.texto-1 {
+    background-color: #ffffff;   
+    width: 100%; 
+    margin: auto;
+    padding: 10px;
+    padding-left: 50px;
+    padding-bottom: 44px;
+    border: 10px;
+    box-sizing: border-box;
+    font-size: 20px;
+}
+
+body {
+    margin: 10px 20px 30px 40px 50px;
+}
+
+body {
+      font-family:'Roboto', sans-serif;
+      font-size: 18px;
+    }
+
+.container {
+    background-color: #ffffff;
+    color: #eee;   
+    width: 93%; 
+    margin: auto;
+    padding: 5px;
+    border-top: 10px solid blue;
+    border-bottom: 10px solid blue;
+    border-left: 10px;
+    border-right: 10px;
+    box-sizing: border-box;
+}
+
+.classe {
+    background-image: linear-gradient(black, gray);
+    align-items: center;
+}
+
+.main-aside h2 {
+    text-align: center;
+    font-family: 'Kanit', sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+.main-aside ul {
+    list-style: none;
+    text-align: center;
+    padding: 0px;
+}
+
+.main-aside ul a {
+    text-decoration: none;
+    color: black;
+}
+
+.main-aside ul a:hover {
+    color: red
+}
+
+.main-aside h2:hover {
+    color: rgb(2, 129, 248);
+    cursor: pointer;
+}
+
+.main-aside ul a:visited {
+    color: rgb(255, 0, 0);
+}
+
+.main-aside .luca:hover {
+    text-shadow: #333;
+    color: rgb(98, 0, 255);
+    cursor: pointer;
+}
+
+.main-aside .yuri:hover {
+    text-shadow: #333;
+    color: rgb(98, 0, 255);
+    cursor: pointer;
+}
+
+.main-aside .luca {
+    color: rgb(0, 0, 0);
+
+}
+
+.main-aside .yuri {
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    text-shadow: #333;
+}
+
+.main-aside ul :visited:hover {
+    color: blueviolet;
+}
+
+.bio {
+    box-shadow: 1000px;
+    text-align: center;
+    color: red;
+}
+
+.bio:hover {
+    color: blue;
+    cursor: pointer;
+    border-bottom: 5px solid blue;
+}
+
+.principal {
+    text-align: center;
+    text-shadow: 100px;
+    margin: 10px 20px 30px;
+    padding: 10px;
+    font-size: 55px;
+    color: blue;
+}
+
+.principal:hover {
+    color: red;
+    cursor: pointer;
+}
+
+.corpo-energia {
+    box-shadow: 1000px;
+    text-align: center;
+    color: red;
+    font-family:'Roboto', sans-serif;
+    font-size: 33px;
+}
+
+.corpo-energia:hover {
+    color: blue;
+    cursor: pointer;
+    border-bottom: 5px solid blue;
+}
+
+.img-energia-corpo {
+    padding-bottom: 2px;
+    margin: auto;
+    border: 5px solid blue
+}
+
+.para-raios {
+    box-shadow: 1000px;
+    text-align: center;
+    color: red;
+    font-size: 33px;
+}
+
+.para-raios:hover  {
+    color: blue;    
+    cursor: pointer;
+    border-bottom: 5px solid blue   
+}
+
+.tales {
+    box-shadow: 1000px;
+    text-align: center;   
+    color: red;
+}
+
+.tales:hover {
+    color: blue;
+    cursor: pointer;
+    border-bottom: 5px solid blue
+}
+
+.video-texto {
+    box-shadow: 1000px;
+    text-align: center;
+    color: red;
+    font-size: 33px;
+}
+
+.video-texto:hover {
+    color: blue;    
+    cursor: pointer;
+    border-bottom: 5px solid blue   
+}
+
+.conteudos-adds {
+    box-shadow: 1000px;
+    text-align: center;
+    color: red;
+    text-align: center;
+    font-size: 33px;
+    font-family:'Roboto', sans-serif;
+}
+
+.conteudos-adds:hover {
+    color: blue;
+    cursor: pointer;
+    border-bottom: 5px solid blue;
+}
+
+.img-conteudos {
+    align-items: center;
+}
+
+.img2-conteudos {
+    align-items: center;
+}
+
+.img3-conteudos {
+    align-items: center;
+}
